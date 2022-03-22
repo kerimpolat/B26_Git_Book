@@ -2,7 +2,5 @@
 
 This is the start of git class
 page 1 will help us to get started
-
-java is cool
-
+java is cool!
 James Bond is always with us
