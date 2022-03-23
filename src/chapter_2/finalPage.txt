@@ -1,0 +1,9 @@
+
+
+So far we learned git flow for 
+
+comit --> push
+
+and
+
+remote --> local
